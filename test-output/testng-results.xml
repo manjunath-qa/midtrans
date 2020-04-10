@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41948" started-at="2020-04-10T07:07:20Z" finished-at="2020-04-10T07:08:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41948" started-at="2020-04-10T07:07:20Z" finished-at="2020-04-10T07:08:02Z">
+      <class name="midtransDemo.uiAuto.Testcase_Assignment">
+        <test-method status="PASS" signature="initiateBrowser()[pri:0, instance:midtransDemo.uiAuto.Testcase_Assignment@1d548a08]" name="initiateBrowser" is-config="true" duration-ms="14173" started-at="2020-04-10T07:07:20Z" finished-at="2020-04-10T07:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateBrowser -->
+        <test-method status="PASS" signature="checkoutSuccessFlow()[pri:1, instance:midtransDemo.uiAuto.Testcase_Assignment@1d548a08]" name="checkoutSuccessFlow" duration-ms="21684" started-at="2020-04-10T07:07:35Z" finished-at="2020-04-10T07:07:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutSuccessFlow -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:midtransDemo.uiAuto.Testcase_Assignment@1d548a08]" name="getResult" is-config="true" duration-ms="962" started-at="2020-04-10T07:07:56Z" finished-at="2020-04-10T07:07:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkoutSuccessFlow status=SUCCESS method=Testcase_Assignment.checkoutSuccessFlow()[pri:1, instance:midtransDemo.uiAuto.Testcase_Assignment@1d548a08] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="checkoutFailFlow()[pri:2, instance:midtransDemo.uiAuto.Testcase_Assignment@1d548a08]" name="checkoutFailFlow" duration-ms="3842" started-at="2020-04-10T07:07:57Z" finished-at="2020-04-10T07:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutFailFlow -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:midtransDemo.uiAuto.Testcase_Assignment@1d548a08]" name="getResult" is-config="true" duration-ms="620" started-at="2020-04-10T07:08:01Z" finished-at="2020-04-10T07:08:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkoutFailFlow status=SUCCESS method=Testcase_Assignment.checkoutFailFlow()[pri:2, instance:midtransDemo.uiAuto.Testcase_Assignment@1d548a08] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:midtransDemo.uiAuto.Testcase_Assignment@1d548a08]" name="closeBrowser" is-config="true" duration-ms="629" started-at="2020-04-10T07:08:02Z" finished-at="2020-04-10T07:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- midtransDemo.uiAuto.Testcase_Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

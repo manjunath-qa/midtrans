@@ -1,0 +1,5 @@
+browser=Firefox
+validCerditCardNumber=4811111111111114
+invalidCerditCardNumber=4811111111111113
+dateOfExpiry=0221
+cvv=123
